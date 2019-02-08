@@ -1,3 +1,4 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+2019.02.08 깃허브 블로그 만들기
+
