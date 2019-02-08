@@ -1,3 +1,8 @@
+---
+title: "first post"
+date: 2019-02-08
+---
+
 There are so many things to learn and I feel overwhelmed. But I can't deny this tutorial was built very nicely. I really appreciate it.
 
 한글 테스트
